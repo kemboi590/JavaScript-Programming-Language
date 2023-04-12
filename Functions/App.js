@@ -202,7 +202,15 @@ function checkVoters(age) {
 
 
 
+function myFirst() {
+    myDisplayer("Hello")
+}
 
+function mySecond() {
+    myDisplayer("world")
+}
+
+myFirst()
 
 
 
