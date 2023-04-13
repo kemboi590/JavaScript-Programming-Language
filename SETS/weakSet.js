@@ -18,7 +18,7 @@ const ressix = {id: 6}
 const hassix = respondents.has(ressix)
 console.log(`Does the Weak set has id 6 ? ${hassix}`);
 
-//delet()
+//delete()
 respondents.delete(resthree);
 console.log("Does our weak set has resthree: ", respondents.has(resthree));
 
