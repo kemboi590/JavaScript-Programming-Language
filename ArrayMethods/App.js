@@ -68,3 +68,4 @@ let joining = ', ';
 let myString2 = myArray2.join(joining);
 console.log(myString2); 
 console.log(typeof(myString2)); // will return a string
+

@@ -1,0 +1,9 @@
+/* For the fetchApi.js and index.js */
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+#container{
+    display: flex;
+}
